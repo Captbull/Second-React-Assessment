@@ -11,7 +11,7 @@ const App = () => {
     setuserName(e.target.value)
   }
 
-  //input is dynamically bound because function component was used instead of class component
+  //input is dynamical ly bound because function component was used instead of class component
 
   //syntax to render input and output components on the webpage
   return (
